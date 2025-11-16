@@ -41,7 +41,7 @@ ul{
 .top{
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 21px;
 }
 .bootom{
     position: absolute;
@@ -70,7 +70,7 @@ ul{
 .two{
     position: absolute;
     left: 65%;
-      top: 60%;
+      top: 61%;
       /* bottom: px; */
          width: 200px;
     height: 200px;
