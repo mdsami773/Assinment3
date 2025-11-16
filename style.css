@@ -35,7 +35,7 @@ ul{
 
    text-align: center;
    h1{
-    font-size: 150px;
+    font-size: 149px;
    }
 }
 .top{
@@ -57,7 +57,7 @@ ul{
    
         position: absolute;
         top: 40%;
-        left: 50%;
+        left: 49%;
      width: 250px;
     height: 300px;
     object-fit: cover;
@@ -79,7 +79,7 @@ ul{
 }
 .three{
      position: absolute;
-    left: 78%;
+    left: 79%;
      top: 38%;
         width: 200px;
     height: 300px; 
